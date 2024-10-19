@@ -1,3 +1,4 @@
+- [碳市场和碳价格——从哪里开始](https://mp.weixin.qq.com/s/P5HCivmPG61zHNlbO3TK8w)
 - [​GraphRag实战篇：RAG+知识图谱，提升模型推理能力的大杀器，值得收藏！](https://mp.weixin.qq.com/s/Nz-_V9EcwRd-S6J9FbRHOw)
 - [「博客」相关的书签 | BMM](https://bmm.lccl.cc/tag/%E5%8D%9A%E5%AE%A2)
 - [LLM x 书签收藏：摘要 & 全文索引 - Nekonull's Garden](https://nekonull.me/posts/llm_x_bookmark/)
