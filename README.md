@@ -1,3 +1,4 @@
+- [手把手教你从零实现单纯形法的大M法，附若干线性规划模型应用题题解 - 吾爱破解 - 52pojie.cn](https://www.52pojie.cn/thread-1943754-1-1.html)
 - [高效管理浏览器书签：osmos::memo 项目推荐-CSDN博客](https://blog.csdn.net/gitblog_00035/article/details/142240381)
 
 # About
