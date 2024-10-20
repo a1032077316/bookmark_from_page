@@ -1,3 +1,4 @@
+- [使用LLM实现自然语言的SQL查询代理_llm + sql-CSDN博客](https://blog.csdn.net/weixin_34452850/article/details/141677371)
 - [碳市场和碳价格——从哪里开始](https://mp.weixin.qq.com/s/P5HCivmPG61zHNlbO3TK8w)
 - [​GraphRag实战篇：RAG+知识图谱，提升模型推理能力的大杀器，值得收藏！](https://mp.weixin.qq.com/s/Nz-_V9EcwRd-S6J9FbRHOw)
 - [「博客」相关的书签 | BMM](https://bmm.lccl.cc/tag/%E5%8D%9A%E5%AE%A2)
