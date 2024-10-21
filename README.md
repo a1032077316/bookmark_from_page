@@ -1,3 +1,4 @@
+- [分布式管理办法【特殊场景】解读到底什么是“源网荷储一体化”？](https://mp.weixin.qq.com/s/KtdK7ua0RLKifsUuQY3Dyg)
 - [碳市场和碳价格——从哪里开始](https://mp.weixin.qq.com/s/P5HCivmPG61zHNlbO3TK8w)
 - [使用LLM实现自然语言的SQL查询代理_llm + sql-CSDN博客](https://blog.csdn.net/weixin_34452850/article/details/141677371)
 - [碳市场和碳价格——从哪里开始](https://mp.weixin.qq.com/s/P5HCivmPG61zHNlbO3TK8w)
