@@ -19,7 +19,7 @@ jobs:
     - name: Checkout bookmark-collection
       uses: actions/checkout@v2
       with:
-        path: bookmark-collection
+        path: bookmark_from_page
 
     - name: Checkout bookmark-summary
       uses: actions/checkout@v2
